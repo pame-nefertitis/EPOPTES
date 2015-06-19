@@ -59,7 +59,8 @@ Pasos
 3)	Cuando  se modifica el nombre de la netbook aparecerá como, El nombre de tu computadora es: juan-perez (IMAGEN 3)
 
  
-IMAGEN 1
+IMAGEN 1 
+
  
 IMAGEN 2
  
